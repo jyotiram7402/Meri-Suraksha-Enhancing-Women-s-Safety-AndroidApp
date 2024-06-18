@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452434283844",
+    "project_id": "spycameradetection-f0548",
+    "storage_bucket": "spycameradetection-f0548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452434283844:android:c0d3689944661bc077db11",
+        "android_client_info": {
+          "package_name": "com.example.merisuraksha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU2kbctQITgL0Lq4251nfJROcJmFQx40U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
